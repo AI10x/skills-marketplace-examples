@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "id": "accessibility-quick-check",
+      "name": "Accessibility Quick Check",
+      "path": "accessibility/skills.md",
+      "description": "Review a page for keyboard navigation, clear labels, focus visibility, and accessible status messages.",
+      "price": "1.00",
+      "currency": "USD"
+    },
+    {
+      "id": "sql-query-review",
+      "name": "SQL Query Review",
+      "path": "sql-review/skills.md",
+      "description": "Inspect a SQL query for correctness, safe parameters, pagination stability, and opportunities to measure performance.",
+      "price": "2.00",
+      "currency": "USD"
+    },
+    {
+      "id": "release-notes-writer",
+      "name": "Release Notes Writer",
+      "path": "release-notes/skills.md",
+      "description": "Turn a supplied change list into concise release notes with user impact, migration steps, and known limitations.",
+      "price": "1.50",
+      "currency": "USD"
+    },
+    {
+      "id": "incident-triage",
+      "name": "Incident Triage",
+      "path": "incident-triage/skills.md",
+      "description": "Organize redacted incident evidence into a timeline, testable hypotheses, and a cautious recovery checklist.",
+      "price": "3.00",
+      "currency": "USD"
+    },
+    {
+      "id": "test-plan-builder",
+      "name": "Test Plan Builder",
+      "path": "test-planning/skills.md",
+      "description": "Convert acceptance criteria into a focused test matrix covering success, invalid input, interruptions, and accessibility.",
+      "price": "2.50",
+      "currency": "USD"
+    }
+  ]
+}
